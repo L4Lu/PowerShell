@@ -1,3 +1,6 @@
-# PowerShell scripts to help me in my daily work
+## PowerShell scripts which are helping me in my daily work
 
-https://github.com/L4Lu/PowerShell/blob/main/URL%20defand.ps1
+They work locally without the need for the usage of the cloude tools.
+
+
+[URL degang](https://github.com/L4Lu/PowerShell/blob/main/URL%20defand.ps1)
